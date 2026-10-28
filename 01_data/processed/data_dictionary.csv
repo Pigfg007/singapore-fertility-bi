@@ -1,0 +1,16 @@
+variable,label,unit,role,limitation
+tfr,Total fertility rate (births per woman),births per woman,outcome / diagnostic,Period fertility measure; national annual aggregate.
+crude_birth_rate,"Crude birth rate (per 1,000 residents)","per 1,000 residents",outcome / diagnostic,Period fertility measure; national annual aggregate.
+resident_live_births,Resident live births (number),number,outcome / diagnostic,Period fertility measure; national annual aggregate.
+asfr_20_24,Age-specific fertility rate 20–24,"births per 1,000 women in age group",outcome / diagnostic,Period fertility measure; national annual aggregate.
+asfr_25_29,Age-specific fertility rate 25–29,"births per 1,000 women in age group",outcome / diagnostic,Period fertility measure; national annual aggregate.
+asfr_30_34,Age-specific fertility rate 30–34,"births per 1,000 women in age group",outcome / diagnostic,Period fertility measure; national annual aggregate.
+asfr_35_39,Age-specific fertility rate 35–39,"births per 1,000 women in age group",outcome / diagnostic,Period fertility measure; national annual aggregate.
+asfr_40_44,Age-specific fertility rate 40–44,"births per 1,000 women in age group",outcome / diagnostic,Period fertility measure; national annual aggregate.
+female_marriage_rate,Female general marriage rate,"per 1,000 unmarried resident women aged 15–49",candidate predictor,Marriage formation proxy. Does not measure marriage timing or fertility within marriage.
+cpi_all_items,General consumer prices,"index, 2024=100",candidate predictor,Consumer price level. Does not measure household affordability or wages.
+cpi_actual_rent,Actual housing rental prices,"index, 2024=100",outcome / diagnostic,Rental price proxy. Excludes house purchase prices and income. Does not measure housing affordability.
+cpi_accommodation,Accommodation prices,"index, 2024=100",candidate predictor,"Housing services price proxy, including imputed rents and maintenance. Excludes house purchase prices and income. Does not measure affordability."
+cpi_education,Education prices,"index, 2024=100",candidate predictor,Broad education price proxy. Does not isolate preschool or childcare fees.
+rail_length_km,Rail network length,km,candidate predictor,"Infrastructure proxy. Does not measure commute time, local accessibility or transport affordability."
+household_debt_asset_pct,Household liabilities / assets,%,candidate predictor,"National aggregate ratio, Q4 stocks. Does not measure young couples or debt service. Original download timestamp unavailable."

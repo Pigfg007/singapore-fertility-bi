@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+.env
+*.xlsx
+*.png
+.chart-data*/
+.build/
+.DS_Store

@@ -1,0 +1,16 @@
+dataset,variable,first_year,last_complete_year,available_years,missing_in_analysis
+births_annual,tfr,1960,2025,66,0
+births_annual,crude_birth_rate,1960,2025,66,0
+births_annual,resident_live_births,1980,2025,46,0
+births_annual,asfr_20_24,1960,2025,66,0
+births_annual,asfr_25_29,1960,2025,66,0
+births_annual,asfr_30_34,1960,2025,66,0
+births_annual,asfr_35_39,1960,2025,66,0
+births_annual,asfr_40_44,1960,2025,66,0
+marriages_annual,female_marriage_rate,1980,2025,46,0
+cpi_annual,cpi_all_items,1961,2025,65,0
+cpi_annual,cpi_actual_rent,2015,2025,11,10
+cpi_annual,cpi_accommodation,2005,2025,21,0
+cpi_annual,cpi_education,1961,2025,65,0
+transport_annual,rail_length_km,1990,2025,36,0
+household_finances_annual,household_debt_asset_pct,1995,2025,31,0

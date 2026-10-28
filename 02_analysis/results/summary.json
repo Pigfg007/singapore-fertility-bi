@@ -1,0 +1,16 @@
+{
+  "start": 2005,
+  "end": 2025,
+  "n": 21,
+  "tfr_2015": 1.24,
+  "tfr_latest": 0.87,
+  "decade_pct_change": -29.838709677419352,
+  "crude_birth_rate_latest": 6.5,
+  "resident_live_births_latest": 27393,
+  "ridge_alpha": 1.0,
+  "model_test_years": [
+    2021,
+    2025
+  ],
+  "best_backtest_model": "ridge"
+}
