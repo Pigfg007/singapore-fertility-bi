@@ -6,7 +6,7 @@ Primary outcome: resident total fertility rate (TFR). Common six-factor period: 
 
 ## The four deliverables
 
-| Assignment requirement | Deliverable | Starting point |
+| Step | Deliverable | Starting point |
 | --- | --- | --- |
 | i. Find sources and extract CSVs | Five source datasets, reproducible extraction, provenance and data dictionary | `01_data/SOURCE_GUIDE.md`, `extract_data.py` and `01_data/processed/` |
 | ii. Exploratory analysis using Python | Guided notebook, scripts, effect tables, diagnostics and backtest | `02_analysis/exploration.ipynb`, `run_analysis.py`, `02_analysis/results/` |
